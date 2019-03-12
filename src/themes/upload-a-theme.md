@@ -16,18 +16,18 @@ I promise it doesn't take long :)
 3. Follow the following format for the file
 ```md
 ---
-  title: {Theme Name}
-  author: {Author Name}
-  description: A SHORT Description
+  title: Them Charizardos
+  author: AlexJivkov
+  description: Charizards
   download:
-  github_profile_url: https://github.com/{Author Name}/
+  github_profile_url: https://github.com/AlexJivkov/
   github_source_url:
   support:
   discord_server:
   demo: https://raw.githack.com
   thumbnail:
-  previews: [Direct link to image, Direct link to image]
-  status:
+  previews: https://www.google.com/search?client=firefox-b-d&biw=1920&bih=966&tbm=isch&sa=1&ei=bAmIXOP-CMSZkgWj_ZLgCA&q=all+charizard+evolutions&oq=all+charizard+ev&gs_l=img.1.0.0.57936.61422..62438...0.0..1.134.1753.6j11......2....1..gws-wiz-img.....0..0i67j0i5i30j0i8i30j0i30j0i24.8AJtVZmeWLQ#imgrc=-Rwf_sUZTzxtxM:
+  status:online
   auto:
   featured: 
   style: dark
